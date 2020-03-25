@@ -3,20 +3,20 @@ A README illustrating my attempts to locate bugs in Twilio Customer Satisfaction
 
 ## Attempt 1
 Give the bot an existential crisis:
-![existential crisis 1](botdebug/debug1.PNG)
-![existential crisis 2](botdebug/debug2.PNG)
+![existential crisis 1](https://github.com/Keenandrea/debugging_twilio_bot/blob/master/debug1.PNG)
+![existential crisis 2](https://github.com/Keenandrea/debugging_twilio_bot/blob/master/debug2.PNG)
 
 ## Attempt 2
 Give the bot gibberish
-![gibberish 1](/botdebug/debug3.PNG)
+![gibberish 1](https://github.com/Keenandrea/debugging_twilio_bot/blob/master/debug3.PNG)
 
 ## Attempt 3
 Comply with bots demands
-![compliance 1](/botdebug/debug4.PNG)
+![compliance 1](https://github.com/Keenandrea/debugging_twilio_bot/blob/master/debug4.PNG)
 
 ## Attempt 4
 Resopond with out-of-bounds integer for survey response satisfaction
-![oob int 1](/botdebug/debug5.PNG)
+![oob int 1](https://github.com/Keenandrea/debugging_twilio_bot/blob/master/debug5.PNG)
 
 ## Debug Conclusion
 The bot has sustained **Attempt 1**, no more crashing into an existential crisis than any self-satisfied person.
