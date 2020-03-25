@@ -3,8 +3,8 @@ A README illustrating my attempts to locate bugs in Twilio Customer Satisfaction
 
 ## Attempt 1
 Give the bot an existential crisis:
-![existential crisis 1](/botdebug/debug1.PNG)
-![existential crisis 2](/botdebug/debug2.PNG)
+![existential crisis 1](botdebug/debug1.PNG)
+![existential crisis 2](botdebug/debug2.PNG)
 
 ## Attempt 2
 Give the bot gibberish
